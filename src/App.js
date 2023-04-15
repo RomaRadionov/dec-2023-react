@@ -1,9 +1,9 @@
-import React from 'react';
+import {Simpsons} from "./components/Simpsons/Simpsons";
 
 const App = () => {
     return (
         <div>
-            App
+            <Simpsons/>
         </div>
     );
 };
