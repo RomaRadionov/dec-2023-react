@@ -1,9 +1,10 @@
 import React from 'react';
+import {Cars} from "./componets/Cars/cars";
 
 const App = () => {
     return (
         <div>
-            App
+            <Cars/>
         </div>
     );
 };
